@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://sirindu.com
+
+# Sitemaps
+Sitemap: https://sirindu.com/sitemap.xml
