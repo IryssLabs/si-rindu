@@ -85,7 +85,7 @@ export default function About() {
 
                 {/* Title */}
                 <h3 className="text-2xl lg:text-3xl font-bold mb-4">
-                  Panduan Lengkap<br />Hipnosis 5 Jari
+                  Panduan Lengkap<br />Hipnosis 5 Jari 
                 </h3>
 
                 {/* Description */}
